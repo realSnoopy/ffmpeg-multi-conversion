@@ -1,0 +1,8 @@
+#ignore all
+*
+#track python files
+!*.py
+#track readme
+!readme.md
+#track .gitignore
+!.gitignore
